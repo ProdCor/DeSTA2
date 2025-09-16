@@ -1,0 +1,4 @@
+[submodule "SLM_eval/SALMONN"]
+	path = SLM_eval/SALMONN
+	url = https://github.com/AI-Unicamp/SALMONN.git
+	branch = main
